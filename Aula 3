@@ -1,0 +1,12 @@
+Introdução ao Git
+
+Sistema de controle de versão
+
+- Mantém o registro das mudanças
+- Permite desenvolvimento colaborativo
+- Permite que saiba quem efetuou as mudanças e quando
+- Permite reverter mudanças e voltar para a versão anterior
+- Usuários mantém histórico em sua máquina local
+        - Mudanças offline
+        - Enviam alterações para o repositório
+
