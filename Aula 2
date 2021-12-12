@@ -1,0 +1,10 @@
+Principais comandos do Terminal Linux 
+
+mkdir > Cria pasta
+rmdir > Deleta pasta
+touch > Cria arquivo
+cat > Lê arquivo
+rm > Deleta arquivo
+nano > Cria arquivo e abre terminal para editar arquivo (não salva)
+sudo > Cria arquivo (salva)
+full upgrade > Atualiza apps e exclui os que não são utilizados
