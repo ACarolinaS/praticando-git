@@ -1,3 +1,0 @@
-Senha máquina virtual: 1234
-Senha Git: 123
-
