@@ -1,5 +1,5 @@
-Praticando Git
-Ana Carolina da Silva
+Praticando Git - 
+Ana Carolina 
 
 Crie um repositório do Git para compartilhar aquilo que você aprendeu sobre Linux e Git, os conteúdos que vimos ao longo deste módulo.
 
